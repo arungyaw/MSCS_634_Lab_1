@@ -1,4 +1,4 @@
-# Taxi Fare Prediction Dataset Lab
+# Lab 1: Data Visualization, Data Preprocessing, and Statistical Analysis Using Python in Jupyter Notebook
 
 ## Purpose of the Lab
 
